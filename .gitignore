@@ -38,3 +38,7 @@ postgres_data/
 *.log
 .coverage
 htmlcov/
+
+# Docs
+Project Docs/
+
